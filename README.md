@@ -41,6 +41,7 @@
 ##### - Generated a classification report, plotted a confusion matrix, and visualized predictions.
 
 #### ---------------------------------------------------------------------------------------------------------
+
 #### 5. Fruit Multi-Classification Using CNN 
 ##### - Loaded a fruit dataset (from Kaggle) for training, testing, and validation, resized to 224x224, and normalized the images.
 ##### - Visualized datasets and analyzed class distribution with pie and bar charts.
