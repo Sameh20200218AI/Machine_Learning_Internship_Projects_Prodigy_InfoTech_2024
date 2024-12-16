@@ -8,7 +8,7 @@
 #### Task 2: Mall Customers Clustering Using K-Means
 #### Task 3: Binary Classification Using SVM and VGG16
 #### Task 4: Hand Gesture Recognition Using CNN
-#### Task 4: Task 5: Fruits Multi-Classification Using CNN
+#### Task 5: Fruits Multi-Classification Using CNN
 
 ### Tasks Details
 #### 1. Linear Regression for Housing Price Prediction 
